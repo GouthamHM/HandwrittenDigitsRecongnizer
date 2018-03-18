@@ -1,16 +1,11 @@
-Name: Goutham Hanumanthappa Manjunatha 
-
-ASU ID: 1213159465
-
-CSE 591 Mini Project 2
 
 Python Version Used: 3.5
 
-Steps to execute:
-    1. Copy data to parent folder
-    2. python3 twoLayerBinary_starter.py
-    3. python3 deepMultiClassNetwork_starter.py  "[784,800]"
-    4. python3 deepMultiClassNetwork_starter.py  "[784,800,500]"
+Steps to execute:<br>
+    1. Copy data to parent folder<br>
+    2. python3 twoLayerBinary_starter.py<br>
+    3. python3 deepMultiClassNetwork_starter.py  "[784,800]"<br>
+    4. python3 deepMultiClassNetwork_starter.py  "[784,800,500]"<br>
     
 
 Expected outputs:
